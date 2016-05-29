@@ -1,5 +1,7 @@
 # 微信后台实现_校园个人信息认证
-![]()
+![](https://github.com/shelton13/express_validation/blob/master/images/1.jpg)
+![](https://github.com/shelton13/express_validation/blob/master/images/2.jpg)
+![](https://github.com/shelton13/express_validation/blob/master/images/3.jpg)
 ## 起因
 校园拿快递，每次都要出示身份证明，因此想着写个简单的个人信息验证与微信服务号连接，只要把个人信息与个人证件图片上传到服务器并通过验证。
 以后拿快递只需要打开个人信息链接即可显示个人信息。
