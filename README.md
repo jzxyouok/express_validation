@@ -8,9 +8,12 @@
 
 ## 准备
 1.新浪SAE
+
 2.BootStrap+PHP+MySQL
+
 3.前端本地客户端压缩图片localResizeIMG
 https://github.com/think2011/localResizeIMG
+
 4.申请一个微信公众平台测试帐号
 
 ## 使用
